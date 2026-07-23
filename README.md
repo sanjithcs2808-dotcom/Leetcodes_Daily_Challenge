@@ -25,4 +25,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 <!---LeetCode Topics End-->
