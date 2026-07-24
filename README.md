@@ -30,8 +30,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0206-reverse-linked-list](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0206-reverse-linked-list](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
