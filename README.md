@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0118-pascals-triangle](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0118-pascals-triangle/) | Easy |
 | [0217-contains-duplicate](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0217-contains-duplicate/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -60,4 +61,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0069-sqrtx/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0118-pascals-triangle](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0118-pascals-triangle/) | Easy |
 <!---LeetCode Topics End-->
