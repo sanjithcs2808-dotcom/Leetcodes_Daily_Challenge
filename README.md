@@ -16,11 +16,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0217-contains-duplicate/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0014-longest-common-prefix/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -57,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0069-sqrtx/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
