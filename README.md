@@ -35,12 +35,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0061-rotate-list](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0203-remove-linked-list-elements/) | Easy |
