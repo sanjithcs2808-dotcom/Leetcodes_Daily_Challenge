@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0058-length-of-last-word/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0434-number-of-segments-in-a-string](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
