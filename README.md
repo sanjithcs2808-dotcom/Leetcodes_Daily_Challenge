@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0069-sqrtx/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0507-perfect-number](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0507-perfect-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
