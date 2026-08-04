@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0058-length-of-last-word/) | Easy |
 | [0344-reverse-string](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -100,4 +102,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0509-fibonacci-number/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
