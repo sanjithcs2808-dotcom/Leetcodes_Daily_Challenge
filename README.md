@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0389-find-the-difference/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0389-find-the-difference/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 ## Trie
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0389-find-the-difference](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0389-find-the-difference/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0389-find-the-difference/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
