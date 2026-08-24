@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0268-missing-number/) | Easy |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0069-sqrtx/) | Easy |
+| [0202-happy-number](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0268-missing-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0507-perfect-number](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0507-perfect-number/) | Easy |
@@ -140,4 +143,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
