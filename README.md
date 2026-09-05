@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0268-missing-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0509-fibonacci-number/) | Easy |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0509-fibonacci-number/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
