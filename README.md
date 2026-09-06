@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0389-find-the-difference/) | Easy |
+| [0392-is-subsequence](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0392-is-subsequence/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 ## Trie
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0392-is-subsequence](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0392-is-subsequence/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0392-is-subsequence](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0509-fibonacci-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
