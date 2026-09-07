@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0053-maximum-subarray](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -162,4 +164,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0196-delete-duplicate-emails](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0196-delete-duplicate-emails/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
