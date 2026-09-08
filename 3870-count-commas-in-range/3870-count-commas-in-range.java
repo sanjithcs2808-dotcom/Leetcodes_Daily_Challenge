@@ -5,9 +5,9 @@ class Solution {
         //     if(i>999)
         //         c++;
         // }
-        if(n>=1000){
-            return n-999;
+        if(n<1000){
+            return 0;
         }
-        return 0;
+        return n - 999;
     }
 }
