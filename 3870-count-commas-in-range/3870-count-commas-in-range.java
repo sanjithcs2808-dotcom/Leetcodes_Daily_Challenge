@@ -6,7 +6,7 @@ class Solution {
         //         c++;
         // }
         if(n>=1000){
-            return (n-1000)+1;
+            return n-999;
         }
         return 0;
     }
