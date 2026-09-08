@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0507-perfect-number](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0509-fibonacci-number/) | Easy |
+| [3870-count-commas-in-range](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/3870-count-commas-in-range/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
