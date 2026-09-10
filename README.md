@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0389-find-the-difference/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sanjithcs2808-dotcom/Leetcodes_Daily_Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
